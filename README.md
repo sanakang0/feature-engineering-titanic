@@ -22,4 +22,3 @@ python feature_engineering_assignment.py
 ## Notes
 
 - 이 저장소는 소스코드 중심으로 정리했습니다.
-- 보고서와 PDF 생성 파일은 제거했습니다.
